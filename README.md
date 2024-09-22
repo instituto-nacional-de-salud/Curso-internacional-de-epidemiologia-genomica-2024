@@ -49,7 +49,7 @@ El programa cubrirá los siguientes temas generales:
 - [Diego Prada](https://scholar.google.com/citations?user=beH3HjMAAAAJ&hl=es), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Alexander Chivatá](https://co.linkedin.com/in/alexander-chivat%C3%A1-%C3%A1vila-8439b1a3), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Daniel Martínez](), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
-- Efraín Andrés Montilla](), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
+- [Efraín Andrés Montilla](https://scholar.google.com/citations?user=HsUyrPwAAAAJ&hl=en), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Héctor Ruiz](https://x.com/hector_genomica), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogota - Colombia.
 - [Paul Oluniyi](https://scholar.google.com/citations?user=PPmTDQwAAAAJ&hl=en), [CZ Biohub](https://www.czbiohub.org/), San Francisco, EE.UU.
 
