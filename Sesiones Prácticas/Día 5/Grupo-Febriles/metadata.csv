@@ -1,0 +1,19 @@
+sample_name,sample_ID,sample_type,nucleotide_type,host_organism,Procedencia,EDAD,IRA,EDA,FIEBRE,,,,MATERIA FECAL,FIEBRE,SUEROS,SARS-COV-2,Ct INFLUENZA A/B,Confirmación por Allplex Influenza B,Ct Metapneumovirus / VSR,Rinovirus,Adenovirus,HCoV-HKU1,HCoV-229E,HCoV-OC43,HCoV-NL63,Metagenómica (viruses No-phage)
+S250084590_L01_65,1,Nasopharyngeal Swab,DNA,Human,Bogotá ,9 meses,X,X,X,,,,,X,22346,(-),(-),-,(-),(-),(-),(-),(-),(-),(-),(-)
+S250084590_L01_69,2,Nasopharyngeal Swab,DNA,Human,Cali,23,X,,X,,,,,X,X,(-),"29,74","30,48",(-),(-),(-),(-),(-),(-),(-),Betainfluenzavirus influenzae (-) Orthopicobirnavirus hominis (94%)
+S250084590_L01_75,3,Nasopharyngeal Swab,DNA,Human,Valledupar,1,X,,X,,,,,X,X,(-),(-),-,(-),(-),(-),(-),(-),(-),(-),(-)
+S250084590_L01_68,4,Nasopharyngeal Swab,DNA,Human,Medellin,15,X,,X,,,,,X,22347,(-),(-),-,(-),"29,64",(-),(-),(-),(-),(-),(-)
+S250084590_L01_77,5,Nasopharyngeal Swab,DNA,Human,Bogotá,2,,X,X,,,,,X,X,(-),(-),-,(-),(-),(-),(-),(-),(-),(-),(-)
+S250084590_L01_76,6,Nasopharyngeal Swab,DNA,Human,Guajira,4,X,,X,,,,,X,X,(-),(-),-,(-),(-),(-),(-),(-),(-),(-),"Enterovirus (99,7%)"
+S250084590_L01_70,7,Nasopharyngeal Swab,DNA,Human,Manizales,40,X,,X,,,,,X,X,(-),(-),-,(-),"28,85",(-),(-),(-),(-),(-),Rhinovirus (79.5%)
+S250084590_L01_66,8,Nasopharyngeal Swab,DNA,Human,Bogotá,22,X,X,X,,,,,X,22366,(-),(-),-,"36,93",(-),(-),(-),(-),(-),(-),Betacoronavirus (Reads)
+S250084590_L01_74,9,Nasopharyngeal Swab,DNA,Human,Bogotá,16,X,,X,,,,,X,22365,(-),(-),-,(-),(-),(-),(-),(-),(-),(-),Betacoronavirus (Reads)
+S250084590_L01_67,10,Nasopharyngeal Swab,DNA,Human,Eje cafetero ,11,X,,X,,,,,X,22362,(-),(-),-,(-),(-),(-),(-),(-),(-),"34,52","Betacoronavirus(1,5%) Alphacoronavirus (4,4%)"
+S250084590_L01_80,11,Suero,DNA,Human,Eje cafetero ,4,X,,X,,,,,X,X,,,,,,,,,,,"Betacoronavirus (2,9%)"
+S250084590_L01_72,12,Nasopharyngeal Swab,DNA,Human,Bogotá,2,X,,X,,,,,X,,(-),(-),-,(-),"30,53",(-),(-),(-),(-),(-),"Rhinovirus (82,8%)"
+S250084590_L01_71,13,Nasopharyngeal Swab,DNA,Human,Bogotá,30,X,,X,,,,,X,X,(-),(-),-,(-),(-),(-),(-),(-),(-),(-),Betacoronavirus (Reads)
+S250084590_L01_78,14,Suero,DNA,Human,Cali,4,X,,X,,,,,X,X,,,,,,,,,,,Betacoronavirus(Reads) Enterovirus B(Reads)
+S250084590_L01_79,15,Suero,DNA,Human,Antioquia,5,X,,"X
+1 SEMANA",,,,,"X
+1 SEMANA",X,,,,,,,,,,,"Betacoronavirus (1,1%)"
+S250084590_L01_73,16,Nasopharyngeal Swab,DNA,Human,Cali,15,X,,X,,,,,X,22347,(-),(-),-,(-),"29,64",(-),(-),(-),(-),(-),Betacoronavirus (Reads)
