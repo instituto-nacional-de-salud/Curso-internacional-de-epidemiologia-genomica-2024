@@ -41,6 +41,11 @@ if (!require("dplyr")) {
   library("dplyr")
   
 }
+
+df1 <- rename(df1, "strain" = "id" )
+df2 <-  rename(df2, "strain" = "id" )
+
+
 if (!require("writexl")) {
   install.packages("writexl")
   library("writexl")
